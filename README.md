@@ -14,14 +14,6 @@ Run the Composer require command from the Terminal:
 composer require qayum/api-first-crud-generator --dev
 ```
 
-### SETUP
-
-For resource publish run the following command
-
-```sh
-php artisan vendor:publish
-```
-
 ## USAGE
 
 Usage of this package is very simple.
