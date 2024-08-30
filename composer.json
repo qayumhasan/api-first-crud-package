@@ -1,7 +1,7 @@
 {
     "name": "qayum/api-first-crud-generator",
     "description": "Generates a complete curd operation",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -28,6 +28,6 @@
             "email": "dev.qayumhasan@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
